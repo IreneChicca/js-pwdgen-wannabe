@@ -10,3 +10,7 @@ console.log(nameuser)
 console.log(surnameuser)
 
 console.log(coloruser)
+
+
+
+document.getElementById("info").innerHTML = nameuser + surnameuser + coloruser + "12"
